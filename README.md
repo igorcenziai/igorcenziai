@@ -18,8 +18,8 @@
   I'm Igor Cenzi, a Software Engineer passionate about Artificial Intelligence and real-world impact. Currently transitioning from a backend development background to building intelligent solutions using neural networks and deep learning.
 
   - 🎓 Final-year Software Engineering student  
-  - 💼 Backend Developer & Tech Lead at PagBank  
-  - 🧠 Researching Emotion Recognition with CNNs (FER-2013 + VGGFace)  
+  - 💼 Software Engeneer at PagBank  
+  - 🧠 Researching Emotion Recognition with CNNs
   - 🤖 Focused on Computer Vision, Deep Learning & AI applied to everyday problems  
   - 🌱 Always learning, always building
 
@@ -61,8 +61,8 @@
   Me chamo Igor Cenzi, sou um Engenheiro de Software apaixonado por Inteligência Artificial e impacto no mundo real. Estou em transição do back-end tradicional para a construção de soluções inteligentes usando redes neurais e aprendizado profundo.
 
   - 🎓 Estudante de Engenharia de Software (último semestre)  
-  - 💼 Dev e líder técnico na PagBank  
-  - 🧠 Pesquisando Reconhecimento de Emoções com CNNs (FER-2013 + VGGFace)  
+  - 💼 Engenheiro de Software na PagBank  
+  - 🧠 Pesquisando Reconhecimento de Emoções com CNNs 
   - 🤖 Foco em Visão Computacional, Deep Learning e IA aplicada ao cotidiano  
   - 🌱 Aprendizado contínuo e desenvolvimento de soluções com propósito
 
